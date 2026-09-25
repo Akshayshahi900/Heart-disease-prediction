@@ -30,7 +30,7 @@ The final model was saved as `heart_disease_knn.pkl`.
 
 ## Final Model
 
-AdaBoost Classifier
+K Nearest Neighbours
 
 Test Accuracy: 82%
 Test AUC: 85.61%
